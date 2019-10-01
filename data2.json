@@ -1,5 +1,5 @@
 [
-    { "name": "Unknown03", "species": "human", "favFood": ["chicken","chicken"] },
-    { "name": "Unknown04", "species": "human", "favFood": ["fish","fish"] }
+    { "name": "Unknown03", "species": "human", "favFood": {"likes":["chicken","chicken"]} },
+    { "name": "Unknown04", "species": "human", "favFood": {"likes":["fish","fish"]} }
 ]
   
