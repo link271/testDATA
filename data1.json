@@ -1,5 +1,5 @@
 [
-    { "name": "Unknown", "species": "human", "favFood": "dog" },
-    { "name": "Unknown02", "species": "human", "favFood": "pizza" }
+    { "name": "Unknown", "species": "human", "favFood": ["dog","dog"] },
+    { "name": "Unknown02", "species": "human", "favFood": ["pizza","pizza"] }
 ]
   
